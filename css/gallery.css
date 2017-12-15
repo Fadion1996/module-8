@@ -177,6 +177,11 @@ header .dropdown-content :hover {
       align-items: center;
     }
 
+    footer .contacts div {
+      text-align: center;
+      width: 100px;
+    }
+
     main, footer {
       margin: 0 10%;
       width: 400px;
@@ -310,7 +315,7 @@ main .container {
 
 .contacts div {
   text-align: center;
-  width: 100px;
+  width: 140px;
 }
 
 .contacts h2, .contacts h3 {
